@@ -13,3 +13,5 @@ When I am not coding you can find me playing football or having fun with friends
 The best way to contact me for a quick question is on my [Twitter profile.](https://twitter.com/ElaziziYoussouf)
 
 Feel free to reach out to me for speaking inquiries, blog partnerships, or if you have questions or comments feel free to email me at [youssoufelazizi@gmail.com](mailto:youssoufelazizi@gmail.com)
+
+![Youssouf's github stats](https://github-readme-stats.vercel.app/api?username=yjose&count_private=true&show_icons=true)
