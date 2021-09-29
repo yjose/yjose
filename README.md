@@ -15,3 +15,6 @@ The best way to contact me for a quick question is on my [Twitter profile.](http
 Feel free to reach out to me for speaking inquiries, blog partnerships, or if you have questions or comments feel free to email me at [youssoufelazizi@gmail.com](mailto:youssoufelazizi@gmail.com)
 
 ![Youssouf's github stats](https://github-readme-stats.vercel.app/api?username=yjose&count_private=true&show_icons=true)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjose&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
